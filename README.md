@@ -1,6 +1,4 @@
 # continuum_codetest
-Test repo for continuum projects.
-
-Created on 12th November 2018.
-
-This is fun!
+1. Test repo for continuum projects.
+2. Created on 12th November 2018.
+3. This is fun!
